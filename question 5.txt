@@ -1,0 +1,186 @@
+Q: To have the car for the weekend, Wilson's report card needs to show that he received 80 or higher in his math class.  His math grade is calculated by the average of 5 test scores.  On those tests, he received: 65, 94, 81, 86 and 74.  What is his current math grade?
+A: Let's think step by step. 
+
+To have the car for the weekend, Wilson's report card needs to show that he received 80 or higher in his math class.
+
+His math grade is calculated by the average of 5 test scores.
+
+On those tests, he received: 65, 94, 81, 86 and 74.
+
+To calculate the average, we need to add up all 5 numbers and then divide by 5. 
+
+65 + 94 + 81 + 86 + 74 = 490
+
+490 / 5 = 98
+
+Wilson's current math grade is 98. 
+
+Question 1:
+To earn a scholarship, Samantha needs her average test score in Science to be 90 or higher. Her science grade is calculated by the average of 4 test scores. On those tests, she received: 87, 92, 85, and 91. What is her current science grade?
+
+Answer 1:
+Let's think step by step.
+To earn a scholarship, Samantha needs her average test score in Science to be 90 or higher.
+Her science grade is calculated by the average of 4 test scores.
+On those tests, she received: 87, 92, 85, and 91.
+To calculate the average, we need to add up all 4 numbers and then divide by 4.
+87 + 92 + 85 + 91 = 355
+355 / 4 = 88.75
+Samantha's current science grade is 88.75.
+Therefore, the answer (arabic numerals) is 88.75.
+
+Question 2:
+In order to be eligible for the school play, Ethan's average score in Drama needs to be 85 or higher. His drama grade is calculated by the average of 3 performance scores. On those performances, he received: 78, 87, and 92. What is his current drama grade?
+
+Answer 2:
+Let's think step by step.
+In order to be eligible for the school play, Ethan's average score in Drama needs to be 85 or higher.
+His drama grade is calculated by the average of 3 performance scores.
+On those performances, he received: 78, 87, and 92.
+To calculate the average, we need to add up all 3 numbers and then divide by 3.
+78 + 87 + 92 = 257
+257 / 3 = 85.67
+Ethan's current drama grade is 85.67.
+Therefore, the answer (arabic numerals) is 85.67.
+
+Question 3:
+To qualify for the swim team, Olivia's average time in the 100-meter freestyle needs to be 1 minute or less. Her times in the last 5 races were: 1:03, 0:57, 1:02, 0:58, and 1:01. What is her current average time?
+
+Answer 3:
+Let's think step by step.
+To qualify for the swim team, Olivia's average time in the 100-meter freestyle needs to be 1 minute or less.
+Her times in the last 5 races were: 1:03, 0:57, 1:02, 0:58, and 1:01.
+To calculate the average time, we need to convert the times to seconds, add them up, and then divide by 5.
+(1 * 60 + 3) + (0 * 60 + 57) + (1 * 60 + 2) + (0 * 60 + 58) + (1 * 60 + 1) = 373 seconds
+373 / 5 = 74.6 seconds
+Olivia's current average time is 74.6 seconds.
+Therefore, the answer (arabic numerals) is 74.6.
+
+
+
+Question 1:
+To pass the driving test, Emily needs her average score to be 80 or higher. Her test scores are calculated by the average of 6 sections. On those sections, she scored: 75, 82, 87, 79, 83, and 81. What is her current average score?
+
+Answer 1:
+Let's think step by step.
+To pass the driving test, Emily needs her average score to be 80 or higher.
+Her test scores are calculated by the average of 6 sections.
+On those sections, she scored: 75, 82, 87, 79, 83, and 81.
+To calculate the average, we need to add up all 6 numbers and then divide by 6.
+75 + 82 + 87 + 79 + 83 + 81 = 487
+487 / 6 = 81.17
+Emily's current average score is 81.17.
+Therefore, the answer (arabic numerals) is 81.17.
+
+Question 2:
+To be selected for the basketball team, Noah's average free throw percentage needs to be 70% or higher. His free throw percentages for the last 8 games were: 65%, 70%, 72%, 69%, 75%, 71%, 68%, and 73%. What is his current average free throw percentage?
+
+Answer 2:
+Let's think step by step.
+To be selected for the basketball team, Noah's average free throw percentage needs to be 70% or higher.
+His free throw percentages for the last 8 games were: 65%, 70%, 72%, 69%, 75%, 71%, 68%, and 73%.
+To calculate the average, we need to add up all 8 percentages and then divide by 8.
+65 + 70 + 72 + 69 + 75 + 71 + 68 + 73 = 563
+563 / 8 = 70.38
+Noah's current average free throw percentage is 70.38%.
+Therefore, the answer (arabic numerals) is 70.38.
+
+Question 3:
+To receive a scholarship, Sophia needs her average grade in English to be 90 or higher. Her grades are calculated by the average of 5 assignments. On those assignments, she scored: 92, 88, 90, 91, and 94. What is her current average grade?
+
+Answer 3:
+Let's think step by step.
+To receive a scholarship, Sophia needs her average grade in English to be 90 or higher.
+Her grades are calculated by the average of 5 assignments.
+On those assignments, she scored: 92, 88, 90, 91, and 94.
+To calculate the average, we need to add up all 5 grades and then divide by 5.
+92 + 88 + 90 + 91 + 94 = 455
+455 / 5 = 91
+Sophia's current average grade is 91.
+Therefore, the answer (arabic numerals) is 91.
+
+Question 1:
+To qualify for the science fair, Ava needs her average score in the experiment to be 90 or higher. Her experiment scores are calculated by the average of 4 evaluations. On those evaluations, she received: 88, 92, 89, and 94. What is her current average score?
+
+Answer 1:
+Let's think step by step.
+To qualify for the science fair, Ava needs her average score in the experiment to be 90 or higher.
+Her experiment scores are calculated by the average of 4 evaluations.
+On those evaluations, she received: 88, 92, 89, and 94.
+To calculate the average, we need to add up all 4 scores and then divide by 4.
+88 + 92 + 89 + 94 = 363
+363 / 4 = 90.75
+Ava's current average score is 90.75.
+Therefore, the answer (arabic numerals) is 90.75.
+
+Question 2:
+To earn a spot on the debate team, Oliver needs his average score in the debates to be 80 or higher. His debate scores are calculated by the average of 3 rounds. On those rounds, he received: 82, 79, and 85. What is his current average score?
+
+Answer 2:
+Let's think step by step.
+To earn a spot on the debate team, Oliver needs his average score in the debates to be 80 or higher.
+His debate scores are calculated by the average of 3 rounds.
+On those rounds, he received: 82, 79, and 85.
+To calculate the average, we need to add up all 3 scores and then divide by 3.
+82 + 79 + 85 = 246
+246 / 3 = 82
+Oliver's current average score is 82.
+Therefore, the answer (arabic numerals) is 82.
+
+Question 3:
+To qualify for the art exhibition, Mia needs her average score in the portfolio to be 85 or higher. Her portfolio scores are calculated by the average of 5 pieces. On those pieces, she received: 90, 88, 86, 84, and 92. What is her current average score?
+
+Answer 3:
+Let's think step by step.
+To qualify for the art exhibition, Mia needs her average score in the portfolio to be 85 or higher.
+Her portfolio scores are calculated by the average of 5 pieces.
+On those pieces, she received: 90, 88, 86, 84, and 92.
+To calculate the average, we need to add up all 5 scores and then divide by 5.
+90 + 88 + 86 + 84 + 92 = 440
+440 / 5 = 88
+Mia's current average score is 88.
+Therefore, the answer (arabic numerals) is 88.
+
+
+Question 1:
+To pass the physics course, Liam needs his average score to be 70 or higher. His scores are calculated by the average of 5 exams. On those exams, he scored: 80, 65, 70, 75, and 72. What is his current average score?
+
+Answer 1:
+Let's think step by step.
+To pass the physics course, Liam needs his average score to be 70 or higher.
+His scores are calculated by the average of 5 exams.
+On those exams, he scored: 80, 65, 70, 75, and 72.
+To calculate the average, we need to add up all 5 scores and then divide by 5.
+80 + 65 + 70 + 75 + 72 = 362
+362 / 5 = 72.4
+Liam's current average score is 72.4.
+Therefore, the answer (arabic numerals) is 72.4.
+
+Question 2:
+To earn a place on the soccer team, Olivia needs her average score in the tryouts to be 8 or higher. Her scores are calculated by the average of 3 evaluations. On those evaluations, she received: 7.5, 8.2, and 7.8. What is her current average score?
+
+Answer 2:
+Let's think step by step.
+To earn a place on the soccer team, Olivia needs her average score in the tryouts to be 8 or higher.
+Her scores are calculated by the average of 3 evaluations.
+On those evaluations, she received: 7.5, 8.2, and 7.8.
+To calculate the average, we need to add up all 3 scores and then divide by 3.
+7.5 + 8.2 + 7.8 = 23.5
+23.5 / 3 = 7.83
+Olivia's current average score is 7.83.
+Therefore, the answer (arabic numerals) is 7.83.
+
+Question 3:
+To qualify for the dance competition, Ethan needs his average score in the auditions to be 85 or higher. His scores are calculated by the average of 4 performances. On those performances, he scored: 90, 84, 87, and 89. What is his current average score?
+
+Answer 3:
+Let's think step by step.
+To qualify for the dance competition, Ethan needs his average score in the auditions to be 85 or higher.
+His scores are calculated by the average of 4 performances.
+On those performances, he scored: 90, 84, 87, and 89.
+To calculate the average, we need to add up all 4 scores and then divide by 4.
+90 + 84 + 87 + 89 = 350
+350 / 4 = 87.5
+Ethan's current average score is 87.5.
+Therefore, the answer (arabic numerals) is 87.5.
+

@@ -1,0 +1,68 @@
+Question 1:
+Oliver is making cookies and muffins for his baking club. He makes 3 more than twice as many muffins as cookies. If Oliver's club has eight members, and each member gets two treats, how many cookies did Oliver make?
+
+Answer 1:
+Let's think step by step. Oliver makes 3 more than twice as many muffins as cookies. Oliver makes 3 more than 2cookies. Oliver makes 3 more than 2cookies + 3. Oliver makes 2*cookies + 6. Oliver makes 14 cookies.
+Therefore, Oliver made 14 cookies.
+
+Question 2:
+Emily is making pies and tarts for her culinary class. She makes 4 less than three times as many tarts as pies. If Emily's class has ten students, and each student gets two treats, how many pies did Emily make?
+
+Answer 2:
+Let's think step by step. Emily makes 4 less than three times as many tarts as pies. Emily makes 4 less than 3pies. Emily makes 3pies - 4. Emily makes 10 pies.
+Therefore, Emily made 10 pies.
+
+Question 3:
+Noah is making donuts and bagels for a breakfast event. He makes 1 less than four times as many bagels as donuts. If there are twelve attendees, and each person gets two treats, how many donuts did Noah make?
+
+Answer 3:
+Let's think step by step. Noah makes 1 less than four times as many bagels as donuts. Noah makes 1 less than 4donuts. Noah makes 4donuts - 1. Noah makes 5 donuts.
+Therefore, Noah made 5 donuts.
+
+Question 4:
+Sophia is making cakes and pies for a dessert buffet. She makes 2 less than twice as many pies as cakes. If there are six guests, and each guest gets two treats, how many cakes did Sophia make?
+
+Answer 4:
+Let's think step by step. Sophia makes 2 less than twice as many pies as cakes. Sophia makes 2 less than 2cakes. Sophia makes 2cakes - 2. Sophia makes 10 cakes.
+Therefore, Sophia made 10 cakes.
+
+Question 5:
+Aiden is making brownies and cookies for a bake sale. He makes 3 more than three times as many cookies as brownies. If there are four customers, and each customer gets two treats, how many brownies did Aiden make?
+
+Answer 5:
+Let's think step by step. Aiden makes 3 more than three times as many cookies as brownies. Aiden makes 3 more than 3brownies. Aiden makes 3brownies + 3. Aiden makes 6 brownies.
+Therefore, Aiden made 6 brownies.
+
+Jacob is making sandwiches and wraps for a lunch event. He makes 5 more than twice as many wraps as sandwiches. If there are nine attendees, and each person gets two treats, how many sandwiches did Jacob make?
+
+Answer 1:
+Let's think step by step. Jacob makes 5 more than twice as many wraps as sandwiches. Jacob makes 5 more than 2sandwiches. Jacob makes 2sandwiches + 5. Jacob makes 19 sandwiches.
+Therefore, Jacob made 19 sandwiches.
+
+Question 2:
+Emma is making cupcakes and cookies for a bake-off. She makes 4 less than five times as many cookies as cupcakes. If there are seven judges, and each judge gets two treats, how many cupcakes did Emma make?
+
+Answer 2:
+Let's think step by step. Emma makes 4 less than five times as many cookies as cupcakes. Emma makes 4 less than 5cupcakes. Emma makes 5cupcakes - 4. Emma makes 11 cupcakes.
+Therefore, Emma made 11 cupcakes.
+
+Question 3:
+Sophie is making pizzas and calzones for a party. She makes 3 more than three times as many calzones as pizzas. If there are twelve guests, and each guest gets two treats, how many pizzas did Sophie make?
+
+Answer 3:
+Let's think step by step. Sophie makes 3 more than three times as many calzones as pizzas. Sophie makes 3 more than 3pizzas. Sophie makes 3pizzas + 3. Sophie makes 9 pizzas.
+Therefore, Sophie made 9 pizzas.
+
+Question 4:
+Lucas is making muffins and scones for a breakfast gathering. He makes 2 less than four times as many scones as muffins. If there are five participants, and each participant gets two treats, how many muffins did Lucas make?
+
+Answer 4:
+Let's think step by step. Lucas makes 2 less than four times as many scones as muffins. Lucas makes 2 less than 4muffins. Lucas makes 4muffins - 2. Lucas makes 8 muffins.
+Therefore, Lucas made 8 muffins.
+
+Question 5:
+Ava is making donuts and croissants for a morning event. She makes 1 less than twice as many croissants as donuts. If there are six attendees, and each person gets two treats, how many donuts did Ava make?
+
+Answer 5:
+Let's think step by step. Ava makes 1 less than twice as many croissants as donuts. Ava makes 1 less than 2donuts. Ava makes 2donuts - 1. Ava makes 11 donuts.
+Therefore, Ava made 11 donuts.

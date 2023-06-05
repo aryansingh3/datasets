@@ -1,0 +1,98 @@
+Alisa biked 12 miles per hour for 4.5 hours. Stanley biked at 10 miles per hour for 2.5 hours. How many miles did Alisa and Stanley bike in total?
+A: Let's think step by step. 
+Alisa biked for 4.5 hours. So, she biked for 4 hours and 30 minutes. 
+We know that 1 hour = 60 minutes. 
+So, 4 hours = 4 × 60 minutes = 240 minutes. 
+And 30 minutes = 30 minutes. 
+So, 4.5 hours = 240 + 30 minutes = 270 minutes. 
+We know that 1 hour = 60 minutes. 
+So, 2.5 hours = 2 × 60 minutes = 150 minutes. 
+
+Question 1:
+Emma ran at a speed of 9 miles per hour for 3.5 hours. Liam ran at a speed of 8 miles per hour for 2 hours. How many miles did Emma and Liam run in total?
+
+Answer 1:
+Let's think step by step.
+Emma ran for 3.5 hours.
+Emma ran at a speed of 9 miles per hour, so she ran for 9 × 3.5 = 31.5 miles.
+Liam ran for 2 hours.
+Liam ran at a speed of 8 miles per hour, so he ran for 8 × 2 = 16 miles.
+Therefore, Emma and Liam ran a total of 31.5 + 16 = 47.5 miles.
+
+Question 2:
+Oliver swam at a speed of 6 miles per hour for 2.5 hours. Sophia swam at a speed of 7 miles per hour for 3 hours. How many miles did Oliver and Sophia swim in total?
+
+Answer 2:
+Let's think step by step.
+Oliver swam for 2.5 hours.
+Oliver swam at a speed of 6 miles per hour, so he swam for 6 × 2.5 = 15 miles.
+Sophia swam for 3 hours.
+Sophia swam at a speed of 7 miles per hour, so she swam for 7 × 3 = 21 miles.
+Therefore, Oliver and Sophia swam a total of 15 + 21 = 36 miles.
+
+Question 3:
+Noah cycled at a speed of 10 miles per hour for 4 hours. Mia cycled at a speed of 8 miles per hour for 3.5 hours. How many miles did Noah and Mia cycle in total?
+
+Answer 3:
+Let's think step by step.
+Noah cycled for 4 hours.
+Noah cycled at a speed of 10 miles per hour, so he cycled for 10 × 4 = 40 miles.
+Mia cycled for 3.5 hours.
+Mia cycled at a speed of 8 miles per hour, so she cycled for 8 × 3.5 = 28 miles.
+Therefore, Noah and Mia cycled a total of 40 + 28 = 68 miles.
+
+Question 4:
+Ava walked at a speed of 5 miles per hour for 6 hours. Ethan walked at a speed of 4 miles per hour for 5 hours. How many miles did Ava and Ethan walk in total?
+
+Answer 4:
+Let's think step by step.
+Ava walked for 6 hours.
+Ava walked at a speed of 5 miles per hour, so she walked for 5 × 6 = 30 miles.
+Ethan walked for 5 hours.
+Ethan walked at a speed of 4 miles per hour, so he walked for 4 × 5 = 20 miles.
+Therefore, Ava and Ethan walked a total of 30 + 20 = 50 miles.
+
+
+Question 1:
+Liam drove at a speed of 60 miles per hour for 2.5 hours. Emma drove at a speed of 55 miles per hour for 3 hours. How many miles did Liam and Emma drive in total?
+
+Answer 1:
+Let's think step by step.
+Liam drove for 2.5 hours.
+Liam drove at a speed of 60 miles per hour, so he drove for 60 * 2.5 = 150 miles.
+Emma drove for 3 hours.
+Emma drove at a speed of 55 miles per hour, so she drove for 55 * 3 = 165 miles.
+Therefore, Liam and Emma drove a total of 150 + 165 = 315 miles.
+
+Question 2:
+Olivia hiked at a speed of 4 miles per hour for 6 hours. Ethan hiked at a speed of 3 miles per hour for 5 hours. How many miles did Olivia and Ethan hike in total?
+
+Answer 2:
+Let's think step by step.
+Olivia hiked for 6 hours.
+Olivia hiked at a speed of 4 miles per hour, so she hiked for 4 * 6 = 24 miles.
+Ethan hiked for 5 hours.
+Ethan hiked at a speed of 3 miles per hour, so he hiked for 3 * 5 = 15 miles.
+Therefore, Olivia and Ethan hiked a total of 24 + 15 = 39 miles.
+
+Question 3:
+Mia swam at a speed of 2.5 miles per hour for 4 hours. Noah swam at a speed of 3 miles per hour for 3.5 hours. How many miles did Mia and Noah swim in total?
+
+Answer 3:
+Let's think step by step.
+Mia swam for 4 hours.
+Mia swam at a speed of 2.5 miles per hour, so she swam for 2.5 * 4 = 10 miles.
+Noah swam for 3.5 hours.
+Noah swam at a speed of 3 miles per hour, so he swam for 3 * 3.5 = 10.5 miles.
+Therefore, Mia and Noah swam a total of 10 + 10.5 = 20.5 miles.
+
+Question 4:
+Sophia ran at a speed of 8 miles per hour for 3 hours. Benjamin ran at a speed of 9 miles per hour for 2.5 hours. How many miles did Sophia and Benjamin run in total?
+
+Answer 4:
+Let's think step by step.
+Sophia ran for 3 hours.
+Sophia ran at a speed of 8 miles per hour, so she ran for 8 * 3 = 24 miles.
+Benjamin ran for 2.5 hours.
+Benjamin ran at a speed of 9 miles per hour, so he ran for 9 * 2.5 = 22.5 miles.
+Therefore, Sophia and Benjamin ran a total of 24 + 22.5 = 46.5 miles.

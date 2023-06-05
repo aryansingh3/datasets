@@ -1,0 +1,101 @@
+Question : Four students scored a total of 251 points in a board game. Naomi scored 68 of the points. Yuri scored 10 more than half as many points as Naomi and Brianna scored 17 points more than Naomi. How many points did Jojo score?
+Answer: Let's think step by step.
+
+We know that Naomi scored 68 points.
+
+We know that Yuri scored 10 more than half as many points as Naomi. This means that Yuri scored 58 points.
+
+We know that Brianna scored 17 points more than Naomi. This means that Brianna scored 85 points.
+
+We know that the four students scored a total of 251 points.
+
+This means that Jojo scored 251 - 68 - 58 - 85 = 40 points. 
+Therefore, the answer (arabic numerals) is 40.
+
+Question :
+Five students scored a total of 350 points in a board game. Ethan scored 95 of the points. Ava scored 8 less than half as many points as Ethan, and Noah scored 15 more than Ava. How many points did Liam score?
+
+Answer :
+We know that Ethan scored 95 points.
+We know that Ava scored 8 less than half as many points as Ethan. This means that Ava scored 41 points.
+We know that Noah scored 15 more than Ava. This means that Noah scored 56 points.
+We know that the five students scored a total of 350 points.
+This means that Liam scored 350 - 95 - 41 - 56 = 158 points.
+Therefore, Liam scored 158 points.
+
+Question :
+Four friends scored a total of 300 points in a trivia game. Emma scored 85 of the points. Olivia scored 12 more than half as many points as Emma, and Sophia scored 20 points less than Emma. How many points did Mia score?
+
+Answer :
+We know that Emma scored 85 points.
+We know that Olivia scored 12 more than half as many points as Emma. This means that Olivia scored 52 points.
+We know that Sophia scored 20 points less than Emma. This means that Sophia scored 65 points.
+We know that the four friends scored a total of 300 points.
+This means that Mia scored 300 - 85 - 52 - 65 = 98 points.
+Therefore, Mia scored 98 points.
+
+Question :
+In a math competition, six students scored a total of 450 points. Samuel scored 120 of the points. Emily scored 15 less than half as many points as Samuel, and Daniel scored 10 more than Emily. How many points did Lily score?
+
+Answer :
+We know that Samuel scored 120 points.
+We know that Emily scored 15 less than half as many points as Samuel. This means that Emily scored 42 points.
+We know that Daniel scored 10 more than Emily. This means that Daniel scored 52 points.
+We know that the six students scored a total of 450 points.
+This means that Lily scored 450 - 120 - 42 - 52 = 236 points.
+Therefore, Lily scored 236 points.
+
+Question :
+Seven students participated in a spelling bee and scored a total of 560 points. Benjamin scored 150 of the points. Olivia scored 20 more than half as many points as Benjamin, and Elijah scored 25 points less than Olivia. How many points did Ava score?
+
+Answer :
+We know that Benjamin scored 150 points.
+We know that Olivia scored 20 more than half as many points as Benjamin. This means that Olivia scored 95 points.
+We know that Elijah scored 25 points less than Olivia. This means that Elijah scored 70 points.
+We know that the seven students scored a total of 560 points.
+This means that Ava scored 560 - 150 - 95 - 70 = 245 points.
+Therefore, Ava scored 245 points.
+
+Question 1:
+In a basketball game, five players scored a total of 120 points. Michael scored 35 of the points. Sarah scored 10 more than half as many points as Michael, and David scored 20 points less than Sarah. How many points did Emily score?
+
+Answer 1:
+We know that Michael scored 35 points.
+We know that Sarah scored 10 more than half as many points as Michael. This means that Sarah scored 30 points.
+We know that David scored 20 points less than Sarah. This means that David scored 10 points.
+We know that the five players scored a total of 120 points.
+This means that Emily scored 120 - 35 - 30 - 10 = 45 points.
+Therefore, Emily scored 45 points.
+
+Question 2:
+Four friends participated in a chess tournament and scored a total of 320 points. Alexander scored 90 of the points. Sophia scored 15 less than half as many points as Alexander, and Olivia scored 25 points more than Sophia. How many points did Benjamin score?
+
+Answer 2:
+We know that Alexander scored 90 points.
+We know that Sophia scored 15 less than half as many points as Alexander. This means that Sophia scored 32 points.
+We know that Olivia scored 25 points more than Sophia. This means that Olivia scored 57 points.
+We know that the four friends scored a total of 320 points.
+This means that Benjamin scored 320 - 90 - 32 - 57 = 141 points.
+Therefore, Benjamin scored 141 points.
+
+Question 3:
+Eight students participated in a science quiz and scored a total of 500 points. Jacob scored 110 of the points. Emma scored 8 more than half as many points as Jacob, and Ethan scored 15 points less than Emma. How many points did Ava score?
+
+Answer 3:
+We know that Jacob scored 110 points.
+We know that Emma scored 8 more than half as many points as Jacob. This means that Emma scored 64 points.
+We know that Ethan scored 15 points less than Emma. This means that Ethan scored 49 points.
+We know that the eight students scored a total of 500 points.
+This means that Ava scored 500 - 110 - 64 - 49 = 277 points.
+Therefore, Ava scored 277 points.
+
+Question 4:
+Seven friends played a video game and scored a total of 850 points. Liam scored 180 of the points. Sophia scored 25 more than half as many points as Liam, and Benjamin scored 30 points less than Sophia. How many points did Emily score?
+
+Answer 4:
+We know that Liam scored 180 points.
+We know that Sophia scored 25 more than half as many points as Liam. This means that Sophia scored 93 points.
+We know that Benjamin scored 30 points less than Sophia. This means that Benjamin scored 63 points.
+We know that the seven friends scored a total of 850 points.
+This means that Emily scored 850 - 180 - 93 - 63 = 514 points.
+Therefore, Emily scored 514 points.
