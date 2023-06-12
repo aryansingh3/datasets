@@ -1,0 +1,33 @@
+import nltk
+from nltk.translate.bleu_score import sentence_bleu, corpus_bleu
+
+def calculate_bleu_score(candidate, references):
+    # Calculate BLEU score for a single sentence
+    bleu_score = sentence_bleu(references, candidate)
+
+    return bleu_score
+
+def read_text_file(file_path):
+    with open(file_path, 'r') as file:
+        text = file.read()
+    return text
+
+# Example usage
+candidate_file = "candidate.txt"
+reference_file = "references.txt"
+
+candidate_text = read_text_file(candidate_file)
+reference_text = read_text_file(reference_file)
+
+# Tokenize the text into sentences
+candidate_sentences = nltk.sent_tokenize(candidate_text)
+reference_sentences = nltk.sent_tokenize(reference_text)
+
+# Tokenize each sentence into words
+candidate_tokens = [nltk.word_tokenize(sentence) for sentence in candidate_sentences]
+reference_tokens = [nltk.word_tokenize(sentence) for sentence in reference_sentences]
+
+# Calculate BLEU score for the entire corpus
+bleu_score = corpus_bleu([reference_tokens], candidate_tokens)
+
+print("BLEU score:", bleu_score) 
