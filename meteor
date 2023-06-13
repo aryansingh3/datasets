@@ -1,0 +1,15 @@
+import pandas as pd
+from nltk.translate import meteor_score
+
+def calculate_meteor_score(generated_text, reference_text):
+    return meteor_score.meteor_score([reference_text], generated_text)
+
+# Read the Excel sheet
+df = pd.read_excel('text_data.xlsx')
+
+generated_texts = df['Generated Text'].tolist()
+reference_texts = df['Reference Text'].tolist()
+
+for generated_text, reference_text in zip(generated_texts, reference_texts):
+    score = calculate_meteor_score(generated_text, reference_text)
+    print(f"METEOR Score: {score:.4f}") 
