@@ -1,0 +1,11 @@
+from nltk.translate import meteor_score
+
+def calculate_meteor_score(generated_text, reference_text):
+    return meteor_score.meteor_score([reference_text], generated_text)
+
+# Example usage
+generated_text = "This is an example sentence."
+reference_text = "This is a reference sentence."
+
+meteor_score = calculate_meteor_score(generated_text, reference_text)
+print(f"METEOR Score: {meteor_score:.4f}") 
