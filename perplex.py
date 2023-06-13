@@ -1,6 +1,8 @@
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
+import nltk
+from nltk.tokenize import word_tokenize
 
 def calculate_perplexity(logits, targets):
     cross_entropy = nn.CrossEntropyLoss()
@@ -8,6 +10,11 @@ def calculate_perplexity(logits, targets):
     perplexity = torch.exp(loss)
     return perplexity.item()
 
+
+def preprocess_function(text):
+    tokens = word_tokenize(text)  # Tokenization using NLTK
+    # Other preprocessing steps (e.g., lowercasing, padding, numerical encoding) can be added here
+    return tokens 
 def calculate_accuracy(logits, targets):
     _, predicted = torch.max(logits, dim=2)
     correct = (predicted == targets).sum().item()
