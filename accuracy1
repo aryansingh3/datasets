@@ -1,0 +1,46 @@
+import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader
+
+def calculate_perplexity(logits, targets):
+    cross_entropy = nn.CrossEntropyLoss()
+    loss = cross_entropy(logits.view(-1, logits.shape[-1]), targets.view(-1))
+    perplexity = torch.exp(loss)
+    return perplexity.item()
+
+def calculate_accuracy(logits, targets):
+    _, predicted = torch.max(logits, dim=2)
+    correct = (predicted == targets).sum().item()
+    total = targets.numel()
+    accuracy = correct / total
+    return accuracy
+
+# Example usage
+model = MyLanguageModel()  # Replace with your language model implementation
+dataset = MyDataset()  # Replace with your dataset implementation
+dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
+
+total_perplexity = 0.0
+total_accuracy = 0.0
+total_samples = 0
+
+model.eval()
+
+with torch.no_grad():
+    for batch in dataloader:
+        inputs, targets = batch
+        logits = model(inputs)
+        batch_size = inputs.size(0)
+        
+        perplexity = calculate_perplexity(logits, targets)
+        accuracy = calculate_accuracy(logits, targets)
+        
+        total_perplexity += perplexity * batch_size
+        total_accuracy += accuracy * batch_size
+        total_samples += batch_size
+
+perplexity_avg = total_perplexity / total_samples
+accuracy_avg = total_accuracy / total_samples
+
+print(f"Perplexity: {perplexity_avg:.4f}")
+print(f"Accuracy: {accuracy_avg:.4f}") 
