@@ -1,7 +1,10 @@
 from nltk.translate import meteor_score
+from nltk.tokenize import word_tokenize
 
 def calculate_meteor_score(generated_text, reference_text):
-    return meteor_score.meteor_score([reference_text], generated_text)
+    generated_tokens = word_tokenize(generated_text)
+    reference_tokens = word_tokenize(reference_text)
+    return meteor_score.meteor_score([reference_tokens], generated_tokens)
 
 # Example usage
 generated_text = "This is an example sentence."
