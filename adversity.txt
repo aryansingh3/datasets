@@ -1,0 +1,117 @@
+                                   correct incorrect
+ sQuestionlSolutionslEquations     answer answer
+ The sum
+ of two
+ numbers
+ is 18 and
+ their
+ difference
+ is 4 .
+ What are
+ the two
+ numbers [11.0,     ['x+y=18.0',   x = 11 x = 13,y =
+0?           7.0]   'x-y=4.0']     ,y = 17 13
+ Two
+ numbers
+ have a
+ sum of 22
+ . Their
+ difference
+ is 4 . what
+ are the
+ two
+ numbers [13.0,     ['x+y=22.0',   x = 13 x = 14,y
+1?           9.0]   'x-y=4.0']     ,y =9  =29
+ Two
+ numbers
+ have a
+ difference
+ of 10 and
+ the sum
+ of 34 .
+ What are
+ the
+ numbers [22.0,     ['x-y=10.0',   x = 22,y x = 14,y =
+2?           12.0]  'x+y=34.0']    = 12     19
+ The sum
+ of two
+ numbers
+ is 38 .
+ Their
+ difference
+ is 12 .
+ What are
+ the two
+ numbers [25.0,     ['x+y=38.0',   x = 25,y x=
+3?           13.0]  'x-y=12.0']    = 13     10,y=18
+ The sum
+ of two
+ numbers
+ is 39 and
+ their
+ difference
+ is 7 .
+ What are
+ the
+ numbers [23.0,     ['x+y=39.0',   x = 23,y
+4?           16.0]  'x-y=7.0']     = 16     x=10,y=19
+ The sum
+ of two
+ numbers
+ is 20 .
+ Their
+ difference
+ is 4 . Find
+ the two [12.0,     ['x+y=20.0',   x=
+5numbers . 8.0]     'x-y=4.0']     12,y=8 x=14,y=19
+ one
+ number
+ exceeds
+ another
+ by 5 , and
+ their sum
+ is 29 ; find[12.0, ['y-x=5.0',    x = 12,y x = 24,y
+6them .      17.0]  'x+y=29.0']    = 17     =14
+  The sum
+  of two
+  numbers
+  is 621 ,
+  and their
+  difference
+  is 109 .
+  Find the                              x=
+  two         [365.0,      ['x+y=621.0',365,y = x =
+ 7numbers 256.0]           'x-y=109.0'] 256     200,y=119
+  Find two
+  numbers
+  whose
+  sum is 55
+  and
+  whose
+  difference [21.0,        ['m+n=55.0', x = 21,y x =
+ 8is 13 .     34.0]        'm-n=13.0'] = 34      34,y=11
+  a number
+  exceeds
+  another
+  number
+  by 5 . the
+  sum of
+  the
+  numbers
+  is 19 . find
+  the         [12.0,       ['x=y+5.0', x = 12,y x= 10,y =
+ 9numbers 7.0]             'x+y=19.0'] = 7      10
+  One
+  number
+  exceeds
+  another
+  by -6 .
+  The sum
+  of the
+  numbers
+  is 12 .
+  What are
+  the
+  numbers                  ['x=y+(-6.0)', x = 3,y x =
+10?           [3.0, 9.0]   'x+y=12.0'] = 9        23,y=19
+
