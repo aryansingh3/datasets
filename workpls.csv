@@ -1,0 +1,287 @@
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+"The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer ","Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 "
+A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper,"Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side"
+"Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity","Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300"
+"There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election","Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election "
+In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row,"think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. "
+"Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires","Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires"
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+"There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election","Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election "
+In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row,"think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. "
+"Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires","Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires"
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+"There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election","Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election "
+In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row,"think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. "
+"Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires","Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires"
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
+questions,answers
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school,"Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241."
