@@ -1,0 +1,961 @@
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 x 9 = 36"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 ÷ 3 = 4"
+Output: "0" or "[INCORRECT]"
+
+Input: "3^2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 x 7 = 43"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 ÷ 5 = 2"
+Output: "0" or "[INCORRECT]"
+
+Input: "4^3 = 64"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 14"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 x 4 = 21"
+Output: "0" or "[INCORRECT]"
+
+Input: "14 - 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 ÷ 2 = 3"
+Output: "0" or "[INCORRECT]"
+
+Input: "2^4 = 16"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 18"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 x 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 9"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 ÷ 4 = 3"
+Output: "1" or "[CORRECT]"
+
+Input: "5^2 = 25"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 36"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 4"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "6 + 7 = 43"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 2"
+Output: "0" or "[INCORRECT]"
+
+Input: "4 + 3 = 64"
+Output: "0" or "[INCORRECT]"
+
+Input: "9 + 6 = 14"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 4 = 21"
+Output: "0" or "[INCORRECT]"
+
+Input: "14 - 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 3"
+Output: "0" or "[INCORRECT]"
+
+Input: "2 + 4 = 16"
+Output: "0" or "[INCORRECT]"
+
+Input: "10 + 7 = 18"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 5 = 15"
+Output: "0" or "[INCORRECT]"
+
+Input: "13 - 6 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 3"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 2 = 25"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 4 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 15"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 - 8 = 4"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 13"
+Output: "1" or "[CORRECT]"
+
+Input: "6 + 5 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "4 + 7 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 18"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 4 = 10"
+Output: "0" or "[INCORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 5"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "15 - 8 = 9"
+Output: "0" or "[INCORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 10"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 7"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 2 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 13"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 9"
+Output: "0" or "[INCORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 13"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 13"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 13"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 + 3 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 9 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 5 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 3 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 2 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 7 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "15 - 8 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 5 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 4 = 9"
+Output: "1" or "[CORRECT]"
+
+Input: "14 - 3 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 2 = 10"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 7 = 17"
+Output: "1" or "[CORRECT]"
+
+Input: "3 + 5 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "13 - 6 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 4 = 8"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 14"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 8 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "10 - 4 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 7 = 13"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 9 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 - 3 = 5"
+Output: "1" or "[CORRECT]"
+
+Input: "6 + 5 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "11 + 4 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "7 - 5 = 1"
+Output: "0" or "[INCORRECT]"
+
+Input: "3 + 6 = 10"
+Output: "0" or "[INCORRECT]"
+
+Input: "9 - 2 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "4 + 7 = 10"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 - 4 = 4"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 5 = 11"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 + 3 = 15"
+Output: "1" or "[CORRECT]"
+
+Input: "7 - 3 = 4"
+Output: "1" or "[CORRECT]"
+
+Input: "6 + 9 = 16"
+Output: "0" or "[INCORRECT]"
+
+Input: "10 - 6 = 4"
+Output: "1" or "[CORRECT]"
+
+Input: "2 + 3 = 4"
+Output: "0" or "[INCORRECT]"
+
+Input: "11 + 2 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "6 + 8 = 14"
+Output: "1" or "[CORRECT]"
+
+Input: "9 - 3 = 6"
+Output: "1" or "[CORRECT]"
+
+Input: "5 + 7 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "10 - 6 = 4"
+Output: "1" or "[CORRECT]"
+
+Input: "4 + 5 = 10"
+Output: "0" or "[INCORRECT]"
+
+Input: "7 - 4 = 3"
+Output: "1" or "[CORRECT]"
+
+Input: "8 + 9 = 18"
+Output: "0" or "[INCORRECT]"
+
+Input: "12 - 5 = 6"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 3 = 8"
+Output: "0" or "[INCORRECT]"
+
+Input: "11 - 3 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "9 + 6 = 16"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 + 2 = 7"
+Output: "1" or "[CORRECT]"
+
+Input: "7 - 2 = 4"
+Output: "0" or "[INCORRECT]"
+
+Input: "8 + 4 = 13"
+Output: "0" or "[INCORRECT]"
+
+Input: "6 + 5 = 11"
+Output: "1" or "[CORRECT]"
+
+Input: "12 - 7 = 5"
+Output: "1" or "[CORRECT]"
+
+Input: "10 + 2 = 12"
+Output: "1" or "[CORRECT]"
+
+Input: "4 - 2 = 3"
+Output: "0" or "[INCORRECT]"
+
+Input: "9 + 2 = 12"
+Output: "0" or "[INCORRECT]"
+
+Input: "5 - 3 = 1"
+Output: "0" or "[INCORRECT]"
+
+

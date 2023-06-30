@@ -1,0 +1,1771 @@
+Example 1:
+Input: "2 + 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 2:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 3:
+Input: "6 + 8 = ?"
+Expected Answer: "13"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 4:
+Input: "10 - 6 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Input: "2 + 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 2:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 3:
+Input: "6 + 8 = ?"
+Expected Answer: "13"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 4:
+Input: "10 - 6 = ?"
+Expected Answer: "4"
+
+Example 5:
+Input: "4 + 7 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 6:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 7:
+Input: "5 + 6 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 8:
+Input: "8 - 5 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 9:
+Input: "2 + 9 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 10:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 11:
+Input: "6 + 4 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 12:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 13:
+Input: "3 + 8 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 14:
+Input: "10 - 2 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 15:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 16:
+Input: "7 + 5 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 17:
+Input: "9 - 7 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 18:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 19:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 20:
+Input: "3 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 21:
+Input: "10 - 8 = ?"
+Expected Answer: "3"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 22:
+Input: "4 + 8 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 23:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 24:
+Input: "5 + 7 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 25:
+Input: "9 - 5 = ?"
+Expected Answer: "3"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 26:
+Input: "4 + 5 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 27:
+Input: "8 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 28:
+Input: "6 + 7 = ?"
+Expected Answer: "13"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 29:
+Input: "9 - 3 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 30:
+Input: "2 + 4 = ?"
+Expected Answer: "5"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 31:
+Input: "7 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 32:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 33:
+Input: "9 - 2 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 34:
+Input: "4 + 9 = ?"
+Expected Answer: "14"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 35:
+Input: "8 - 7 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 36:
+Input: "3 + 8 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 37:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 38:
+Input: "5 + 2 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 39:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 40:
+Input: "6 + 4 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 41:
+Input: "8 - 2 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 42:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 43:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 44:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 45:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 46:
+Input: "3 + 5 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 47:
+Input: "9 - 4 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 48:
+Input: "2 + 6 = ?"
+Expected Answer: "9"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 49:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 50:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 51:
+Input: "8 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 52:
+Input: "6 + 9 = ?"
+Expected Answer: "16"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 53:
+Input: "5 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 54:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 55:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 56:
+Input: "3 + 4 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 57:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 58:
+Input: "2 + 8 = ?"
+Expected Answer: "10"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 59:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 60:
+Input: "4 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 61:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 62:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 63:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 64:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 65:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 66:
+Input: "2 + 2 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 67:
+Input: "9 - 7 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 68:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 69:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 70:
+Input: "4 + 4 = ?"
+Expected Answer: "9"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 71:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 72:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 73:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 74:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 75:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 76:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 77:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 78:
+Input: "2 + 6 = ?"
+Expected Answer: "9"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 79:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 80:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 81:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 82:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 83:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 84:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 85:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 86:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 87:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 88:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 89:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 90:
+Input: "4 + 4 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 91:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 92:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 93:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 94:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 95:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 96:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 97:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 98:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 99:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 100:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 101:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 102:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 103:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 104:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 105:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 106:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 107:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 108:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 109:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 110:
+Input: "4 + 4 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 111:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 112:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 113:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 114:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 115:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 116:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 117:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 118:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 119:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 120:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 121:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 122:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 123:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 124:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 125:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 126:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 127:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 128:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 129:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 130:
+Input: "4 + 4 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 131:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 132:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 133:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 134:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 135:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 136:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 137:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 138:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 139:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 140:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 141:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 142:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 143:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 144:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 145:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 146:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 147:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 148:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 149:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 150:
+Input: "4 + 4 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 151:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 152:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 153:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 154:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 155:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 156:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 157:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 158:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 159:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 160:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 161:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 162:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 163:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 164:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 165:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 166:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 167:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 168:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 169:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 170:
+Input: "4 + 4 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 171:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 172:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 173:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 174:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 175:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 176:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 177:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 178:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 179:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 180:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 181:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 182:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 183:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 184:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 185:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 186:
+Input: "2 + 5 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 187:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 188:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 189:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 190:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 191:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 192:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 193:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 194:
+Input: "5 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 195:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 196:
+Input: "3 + 7 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 197:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 198:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: -1 (Incorrect Answer)
+
+Example 199:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 200:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 201:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 202:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 203:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 204:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 205:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 206:
+Input: "2 + 5 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 207:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 208:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 209:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 210:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 211:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 212:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 213:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 214:
+Input: "5 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 215:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 216:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 217:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 218:
+Input: "3 + 8 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 219:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 220:
+Input: "5 + 5 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 221:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 222:
+Input: "6 + 7 = ?"
+Expected Answer: "13"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 223:
+Input: "4 - 4 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 224:
+Input: "9 + 2 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 225:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 226:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 227:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 228:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 229:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 230:
+Input: "4 + 7 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 231:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 232:
+Input: "2 + 8 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 233:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 234:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 235:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 236:
+Input: "3 + 4 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 237:
+Input: "9 - 7 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 238:
+Input: "2 + 5 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 239:
+Input: "6 - 3 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 240:
+Input: "4 + 7 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 241:
+Input: "8 - 5 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 242:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 243:
+Input: "5 - 2 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 244:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 245:
+Input: "6 - 6 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 246:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 247:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 248:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 249:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 250:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 251:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 252:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 253:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 254:
+Input: "5 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 255:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 256:
+Input: "3 + 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 257:
+Input: "9 - 4 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 258:
+Input: "2 + 8 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 259:
+Input: "6 - 2 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 260:
+Input: "4 + 9 = ?"
+Expected Answer: "13"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 261:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 262:
+Input: "6 + 7 = ?"
+Expected Answer: "13"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 263:
+Input: "5 - 5 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 264:
+Input: "9 + 1 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 265:
+Input: "6 - 8 = ?"
+Expected Answer: "-2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 266:
+Input: "2 + 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 267:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 268:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 269:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 270:
+Input: "4 + 7 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 271:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 272:
+Input: "2 + 8 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 273:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 274:
+Input: "5 + 3 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 275:
+Input: "8 - 3 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 276:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 277:
+Input: "9 - 7 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 278:
+Input: "2 + 5 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 280:
+Input: "5 + 6 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 281:
+Input: "9 - 6 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 282:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 283:
+Input: "7 - 3 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 284:
+Input: "4 + 7 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 285:
+Input: "8 - 5 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 286:
+Input: "6 + 9 = ?"
+Expected Answer: "15"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 287:
+Input: "5 - 2 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 288:
+Input: "9 + 3 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 289:
+Input: "6 - 6 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 290:
+Input: "2 + 4 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 291:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 292:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 293:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 294:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 295:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 296:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 297:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 298:
+Input: "5 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 299:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 300:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 301:
+Input: "9 - 3 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 302:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 304:
+Input: "5 + 4 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 305:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 306:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 307:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 308:
+Input: "4 + 8 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 309:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 310:
+Input: "6 + 5 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 311:
+Input: "5 - 3 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 312:
+Input: "9 + 2 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 313:
+Input: "6 - 6 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 314:
+Input: "2 + 5 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 315:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 316:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 317:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 318:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 319:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 320:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 321:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 322:
+Input: "5 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 323:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 324:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 325:
+Input: "9 - 3 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 326:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 327:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 328:
+Input: "5 + 4 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 329:
+Input: "9 - 5 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 330:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 331:
+Input: "7 - 2 = ?"
+Expected Answer: "5"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 332:
+Input: "4 + 8 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 333:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 334:
+Input: "6 + 5 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 335:
+Input: "5 - 3 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 336:
+Input: "9 + 2 = ?"
+Expected Answer: "11"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 337:
+Input: "6 - 6 = ?"
+Expected Answer: "0"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 338:
+Input: "2 + 5 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 339:
+Input: "7 - 4 = ?"
+Expected Answer: "3"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 340:
+Input: "3 + 9 = ?"
+Expected Answer: "12"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 341:
+Input: "8 - 6 = ?"
+Expected Answer: "2"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 342:
+Input: "4 + 6 = ?"
+Expected Answer: "10"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 343:
+Input: "9 - 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 344:
+Input: "2 + 7 = ?"
+Expected Answer: "9"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 345:
+Input: "6 - 5 = ?"
+Expected Answer: "1"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 346:
+Input: "5 + 2 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 347:
+Input: "8 - 4 = ?"
+Expected Answer: "4"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 348:
+Input: "4 + 3 = ?"
+Expected Answer: "7"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 349:
+Input: "9 - 3 = ?"
+Expected Answer: "6"
+Reward/Penalty: +1 (Correct Answer)
+
+Example 350:
+Input: "2 + 6 = ?"
+Expected Answer: "8"
+Reward/Penalty: +1 (Correct Answer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
