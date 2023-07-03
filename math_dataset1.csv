@@ -1,0 +1,1001 @@
+Problem,Error Type,Correct Answer,Incorrect Answer
+"There are 2 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-5,5
+"There are 18 apples. If you add 3 more apples, how many apples do you have?",Addition Error,21,29
+"There are 3 apples. If you add 4 more apples, how many apples do you have?",Addition Error,7,17
+"There are 2 apples. If you add 1 more apples, how many apples do you have?",Addition Error,3,10
+"There are 3 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,0,4
+"There are 17 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,10,16
+"John has 7 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,21,27
+"John has 2 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,20,27
+"There are 19 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,12,17
+"John has 10 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,40,49
+"There are 3 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.3,0.882358555379413
+"There are 2 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,0.25,0.530792635364177
+"There are 15 apples. If you add 4 more apples, how many apples do you have?",Addition Error,19,26
+"There are 9 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2.25,2.95870547192732
+"John has 14 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,98,101
+"John has 13 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,91,95
+"There are 2 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,0,7
+"John has 1 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,8,18
+"John has 7 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,42,49
+"There are 19 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,16,17
+"There are 12 apples. If you add 4 more apples, how many apples do you have?",Addition Error,16,24
+"There are 8 apples. If you add 5 more apples, how many apples do you have?",Addition Error,13,17
+"John has 9 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,72,79
+"John has 18 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,54,61
+"There are 15 apples. If you add 3 more apples, how many apples do you have?",Addition Error,18,20
+"There are 16 apples. If you add 4 more apples, how many apples do you have?",Addition Error,20,24
+"There are 14 apples. If you add 4 more apples, how many apples do you have?",Addition Error,18,25
+"There are 11 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,6,8
+"There are 17 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.42857142857143,2.95996557884786
+"There are 20 apples. If you add 10 more apples, how many apples do you have?",Addition Error,30,31
+"There are 20 apples. If you add 7 more apples, how many apples do you have?",Addition Error,27,29
+"There are 18 apples. If you add 9 more apples, how many apples do you have?",Addition Error,27,32
+"John has 2 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,18,25
+"There are 7 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,0,4
+"John has 17 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,34,40
+"There are 2 apples. If you add 7 more apples, how many apples do you have?",Addition Error,9,16
+"There are 13 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,13,13.298939178563
+"There are 8 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-2,3
+"John has 3 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,12,14
+"John has 20 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,120,126
+"John has 20 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,160,170
+"John has 12 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,120,123
+"There are 4 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-3,4
+"There are 13 apples. If you add 9 more apples, how many apples do you have?",Addition Error,22,27
+"There are 8 apples. If you add 7 more apples, how many apples do you have?",Addition Error,15,25
+"There are 8 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-1,5
+"John has 7 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,21,25
+"John has 14 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,98,103
+"John has 4 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,24,26
+"There are 6 apples. If you add 9 more apples, how many apples do you have?",Addition Error,15,16
+"There are 18 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,9,10
+"John has 13 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,26,35
+"There are 8 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-2,-1
+"There are 15 apples. If you add 2 more apples, how many apples do you have?",Addition Error,17,26
+"There are 3 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,-1,4
+"There are 12 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,4,13
+"There are 15 apples. If you add 6 more apples, how many apples do you have?",Addition Error,21,29
+"John has 16 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,128,133
+"There are 10 apples. If you add 8 more apples, how many apples do you have?",Addition Error,18,19
+"John has 8 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,24,27
+"John has 4 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,20,28
+"There are 20 apples. If you add 10 more apples, how many apples do you have?",Addition Error,30,33
+"There are 20 apples. If you add 3 more apples, how many apples do you have?",Addition Error,23,26
+"John has 13 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,52,57
+"There are 3 apples. If you add 7 more apples, how many apples do you have?",Addition Error,10,11
+"There are 7 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.7,1.53484193570482
+"John has 3 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,24,29
+"There are 12 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,2.4,2.64366786932644
+"There are 11 apples. If you add 5 more apples, how many apples do you have?",Addition Error,16,25
+"There are 20 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,18,28
+"There are 10 apples. If you add 10 more apples, how many apples do you have?",Addition Error,20,26
+"John has 1 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,1,11
+"There are 5 apples. If you add 3 more apples, how many apples do you have?",Addition Error,8,18
+"There are 18 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,10,11
+"John has 8 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,48,52
+"There are 9 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,5,10
+"John has 1 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,4,10
+"There are 15 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,12,22
+"There are 17 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,2.83333333333333,3.04026350982343
+"John has 6 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,24,32
+"There are 15 apples. If you add 7 more apples, how many apples do you have?",Addition Error,22,23
+"John has 1 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,5,10
+"John has 9 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,90,97
+"John has 15 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,30,31
+"There are 20 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,2.22222222222222,2.84958836966579
+"There are 5 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1,1.29715138633679
+"There are 13 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,6.5,7.13656321356994
+"There are 3 apples. If you add 1 more apples, how many apples do you have?",Addition Error,4,9
+"There are 7 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,2,6
+"There are 18 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6,6.53624083410151
+"John has 8 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,56,59
+"There are 14 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,6,7
+"John has 11 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,88,93
+"There are 13 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.44444444444444,2.33360070213776
+"John has 14 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,112,122
+"There are 12 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,10,13
+"There are 16 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,11,17
+"There are 19 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6.33333333333333,6.69911897613639
+"There are 19 apples. If you add 2 more apples, how many apples do you have?",Addition Error,21,22
+"There are 4 apples. If you add 6 more apples, how many apples do you have?",Addition Error,10,17
+"John has 11 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,11,13
+"There are 18 apples. If you add 6 more apples, how many apples do you have?",Addition Error,24,26
+"There are 17 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,2.125,3.00529577685794
+"There are 14 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.75,2.21181062200116
+"John has 17 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,17,20
+"There are 17 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,14,15
+"John has 16 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,128,132
+"John has 20 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,200,210
+"John has 13 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,39,49
+"There are 20 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,14,24
+"John has 7 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,42,47
+"There are 19 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,3.16666666666667,3.9502093338043
+"There are 15 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,12,20
+"There are 6 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-4,-2
+"There are 7 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,3,13
+"There are 6 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,4,14
+"John has 3 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,9,10
+"There are 15 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,9,14
+"John has 6 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,24,34
+"There are 6 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1.2,1.89968627199448
+"There are 7 apples. If you add 6 more apples, how many apples do you have?",Addition Error,13,19
+"There are 5 apples. If you add 4 more apples, how many apples do you have?",Addition Error,9,15
+"There are 6 apples. If you add 2 more apples, how many apples do you have?",Addition Error,8,16
+"There are 19 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,12,18
+"John has 5 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,5,13
+"John has 14 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,140,143
+"There are 10 apples. If you add 5 more apples, how many apples do you have?",Addition Error,15,22
+"John has 1 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,6,13
+"John has 6 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,60,64
+"There are 4 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,2,2.69297412739932
+"There are 9 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,5,15
+"There are 10 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,2,10
+"John has 18 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,162,163
+"There are 13 apples. If you add 9 more apples, how many apples do you have?",Addition Error,22,23
+"John has 10 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,90,92
+"John has 8 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,16,17
+"There are 9 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2.25,2.47063510284856
+"There are 6 apples. If you add 3 more apples, how many apples do you have?",Addition Error,9,19
+"There are 1 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-7,-1
+"John has 16 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,96,100
+"John has 5 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,40,44
+"There are 6 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,2,7
+"There are 4 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,1,3
+"John has 8 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,40,42
+"There are 9 apples. If you add 5 more apples, how many apples do you have?",Addition Error,14,20
+"John has 19 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,57,62
+"There are 8 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,8,8.53379713778014
+"There are 11 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.22222222222222,2.11566650414242
+"There are 16 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,6,13
+"There are 11 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,10,17
+"There are 4 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,0.8,0.996414876166916
+"There are 12 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,3,3.23285012208083
+"There are 17 apples. If you add 1 more apples, how many apples do you have?",Addition Error,18,24
+"There are 2 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,0,2
+"There are 8 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-1,9
+"There are 10 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.25,1.52331314870095
+"There are 2 apples. If you add 4 more apples, how many apples do you have?",Addition Error,6,16
+"There are 13 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,6.5,6.80048623440549
+"There are 13 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,2.6,3.25927861581046
+"There are 10 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,2,3
+"John has 3 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,30,40
+"There are 12 apples. If you add 8 more apples, how many apples do you have?",Addition Error,20,30
+"There are 3 apples. If you add 2 more apples, how many apples do you have?",Addition Error,5,10
+"There are 5 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,5,5.15428639442156
+"There are 2 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-4,0
+"There are 17 apples. If you add 9 more apples, how many apples do you have?",Addition Error,26,27
+"There are 18 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.57142857142857,2.77623984780739
+"There are 13 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,9,11
+"There are 1 apples. If you add 3 more apples, how many apples do you have?",Addition Error,4,13
+"There are 7 apples. If you add 6 more apples, how many apples do you have?",Addition Error,13,15
+"There are 4 apples. If you add 7 more apples, how many apples do you have?",Addition Error,11,19
+"John has 5 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,20,28
+"John has 1 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,3,9
+"There are 8 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,1,8
+"There are 2 apples. If you add 4 more apples, how many apples do you have?",Addition Error,6,15
+"There are 19 apples. If you add 8 more apples, how many apples do you have?",Addition Error,27,37
+"John has 16 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,112,119
+"There are 18 apples. If you add 5 more apples, how many apples do you have?",Addition Error,23,26
+"There are 17 apples. If you add 7 more apples, how many apples do you have?",Addition Error,24,30
+"John has 7 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,35,44
+"John has 14 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,56,62
+"There are 12 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,2,8
+"There are 19 apples. If you add 8 more apples, how many apples do you have?",Addition Error,27,28
+"There are 20 apples. If you add 9 more apples, how many apples do you have?",Addition Error,29,35
+"There are 8 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.14285714285714,1.70664914432087
+"John has 7 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,7,8
+"John has 9 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,90,95
+"There are 10 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.25,1.47171338900984
+"John has 18 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,18,20
+"There are 10 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,5,12
+"There are 14 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.4,2.14771470776115
+"There are 4 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.4,0.595272066149207
+"There are 5 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,3,5
+"There are 10 apples. If you add 1 more apples, how many apples do you have?",Addition Error,11,21
+"There are 14 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,2.33333333333333,2.75391567085968
+"There are 7 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,0,5
+"There are 16 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,10,14
+"There are 2 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.285714285714286,0.656763606183617
+"There are 3 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-5,5
+"John has 8 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,16,23
+"There are 8 apples. If you add 1 more apples, how many apples do you have?",Addition Error,9,15
+"There are 5 apples. If you add 6 more apples, how many apples do you have?",Addition Error,11,18
+"John has 6 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,12,16
+"John has 5 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,30,31
+"John has 18 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,90,94
+"John has 5 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,20,25
+"There are 6 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,0.75,0.997124234308269
+"There are 18 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,3,3.38583123532854
+"John has 6 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,12,13
+"There are 18 apples. If you add 4 more apples, how many apples do you have?",Addition Error,22,27
+"John has 5 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,15,24
+"John has 16 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,112,116
+"There are 9 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.28571428571429,1.64917266900138
+"There are 12 apples. If you add 9 more apples, how many apples do you have?",Addition Error,21,30
+"There are 6 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,2,2.53432921839347
+"There are 8 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.888888888888889,1.6443010784519
+"There are 3 apples. If you add 4 more apples, how many apples do you have?",Addition Error,7,13
+"John has 15 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,90,93
+"There are 14 apples. If you add 8 more apples, how many apples do you have?",Addition Error,22,26
+"There are 5 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,5,5.22979000092524
+"There are 3 apples. If you add 7 more apples, how many apples do you have?",Addition Error,10,18
+"There are 7 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,6,13
+"There are 14 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,13,16
+"There are 2 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-5,-4
+"There are 2 apples. If you add 4 more apples, how many apples do you have?",Addition Error,6,12
+"There are 9 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,1,5
+"There are 11 apples. If you add 6 more apples, how many apples do you have?",Addition Error,17,20
+"There are 7 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,6,16
+"There are 5 apples. If you add 5 more apples, how many apples do you have?",Addition Error,10,18
+"John has 19 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,38,40
+"There are 20 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6.66666666666667,6.78118818699148
+"There are 2 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,0,6
+"There are 12 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,9,18
+"There are 20 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,14,15
+"There are 7 apples. If you add 4 more apples, how many apples do you have?",Addition Error,11,12
+"There are 13 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.3,1.70259325320518
+"There are 10 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,3.33333333333333,3.61643863454948
+"There are 7 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,1.75,2.36342442973416
+"There are 20 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,14,23
+"There are 6 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-2,6
+"John has 20 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,200,204
+"There are 12 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.33333333333333,2.20041232840115
+"There are 11 apples. If you add 4 more apples, how many apples do you have?",Addition Error,15,21
+"There are 6 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-2,4
+"There are 1 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-4,2
+"There are 11 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,3,4
+"There are 19 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.9,2.51211598850405
+"There are 18 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.57142857142857,3.34754617426909
+"There are 16 apples. If you add 10 more apples, how many apples do you have?",Addition Error,26,35
+"There are 16 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,3.2,3.64335874554029
+"There are 20 apples. If you add 7 more apples, how many apples do you have?",Addition Error,27,29
+"There are 11 apples. If you add 4 more apples, how many apples do you have?",Addition Error,15,22
+"There are 1 apples. If you add 4 more apples, how many apples do you have?",Addition Error,5,12
+"John has 13 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,13,14
+"John has 20 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,80,83
+"John has 18 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,162,165
+"There are 7 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,5,9
+"There are 6 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,3,3.45576971895732
+"There are 16 apples. If you add 5 more apples, how many apples do you have?",Addition Error,21,22
+"John has 13 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,91,93
+"There are 8 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,1.33333333333333,1.58710593666193
+"There are 14 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,10,13
+"There are 11 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,1,8
+"There are 19 apples. If you add 6 more apples, how many apples do you have?",Addition Error,25,27
+"There are 16 apples. If you add 8 more apples, how many apples do you have?",Addition Error,24,33
+"John has 19 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,152,153
+"There are 5 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-3,1
+"There are 10 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,1,7
+"John has 2 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,14,16
+"There are 20 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,4,4.12419767140303
+"There are 19 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,9.5,10.3294285978108
+"John has 12 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,96,101
+"John has 14 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,126,132
+"There are 12 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.5,2.05301144390374
+"John has 18 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,144,148
+"John has 5 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,15,24
+"There are 9 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1,1.86848225975648
+"There are 5 apples. If you add 3 more apples, how many apples do you have?",Addition Error,8,13
+"John has 13 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,13,16
+"John has 4 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,20,25
+"There are 15 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,2.5,3.32467044422538
+"There are 8 apples. If you add 7 more apples, how many apples do you have?",Addition Error,15,24
+"There are 17 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,11,15
+"There are 2 apples. If you add 2 more apples, how many apples do you have?",Addition Error,4,11
+"John has 16 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,64,67
+"There are 5 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-1,6
+"John has 20 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,200,207
+"There are 14 apples. If you add 1 more apples, how many apples do you have?",Addition Error,15,20
+"There are 14 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.4,2.16320872888927
+"There are 17 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,13,21
+"John has 7 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,70,71
+"There are 15 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,8,13
+"There are 13 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,7,10
+"There are 7 apples. If you add 7 more apples, how many apples do you have?",Addition Error,14,16
+"John has 19 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,76,77
+"There are 8 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.8,1.22024149051388
+"There are 10 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,9,10
+"John has 16 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,96,98
+"There are 16 apples. If you add 3 more apples, how many apples do you have?",Addition Error,19,26
+"There are 20 apples. If you add 1 more apples, how many apples do you have?",Addition Error,21,29
+"John has 10 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,30,39
+"There are 10 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2.5,2.74259784778068
+"There are 6 apples. If you add 4 more apples, how many apples do you have?",Addition Error,10,15
+"John has 2 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,14,15
+"There are 10 apples. If you add 7 more apples, how many apples do you have?",Addition Error,17,19
+"John has 1 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,4,8
+"John has 19 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,19,25
+"There are 18 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,17,27
+"There are 15 apples. If you add 5 more apples, how many apples do you have?",Addition Error,20,29
+"There are 4 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-5,5
+"There are 11 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,7,10
+"John has 5 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,45,50
+"There are 3 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.3,1.05520491040709
+"There are 1 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-8,1
+"John has 16 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,112,113
+"There are 16 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,5.33333333333333,6.06847346944505
+"There are 10 apples. If you add 9 more apples, how many apples do you have?",Addition Error,19,22
+"There are 3 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.428571428571429,0.551348656352187
+"There are 5 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-4,2
+"There are 13 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.85714285714286,2.7009858717277
+"There are 5 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-5,-3
+"There are 7 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,3.5,4.3593443063439
+"There are 5 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,0.625,1.25233794100224
+"There are 17 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,5.66666666666667,6.10322580623157
+"There are 12 apples. If you add 7 more apples, how many apples do you have?",Addition Error,19,29
+"John has 12 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,96,106
+"There are 20 apples. If you add 5 more apples, how many apples do you have?",Addition Error,25,30
+"There are 14 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,14,14.4057853603883
+"There are 8 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,4,7
+"There are 9 apples. If you add 1 more apples, how many apples do you have?",Addition Error,10,14
+"There are 11 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.57142857142857,1.80884148699708
+"There are 12 apples. If you add 6 more apples, how many apples do you have?",Addition Error,18,26
+"There are 1 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-9,-3
+"John has 8 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,16,17
+"There are 9 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,1.5,1.64230409530196
+"There are 10 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,10,10.5310610688005
+"There are 8 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1.6,1.74277165301114
+"There are 12 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.33333333333333,1.45913818966949
+"John has 15 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,105,114
+"There are 17 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,10,20
+"There are 14 apples. If you add 8 more apples, how many apples do you have?",Addition Error,22,29
+"There are 15 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,7.5,7.67891961170227
+"There are 15 apples. If you add 2 more apples, how many apples do you have?",Addition Error,17,19
+"John has 19 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,190,192
+"John has 18 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,144,146
+"There are 13 apples. If you add 7 more apples, how many apples do you have?",Addition Error,20,27
+"There are 3 apples. If you add 1 more apples, how many apples do you have?",Addition Error,4,11
+"There are 5 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-2,8
+"There are 20 apples. If you add 7 more apples, how many apples do you have?",Addition Error,27,29
+"There are 9 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,2,6
+"There are 7 apples. If you add 1 more apples, how many apples do you have?",Addition Error,8,13
+"There are 13 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,6,12
+"John has 17 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,170,175
+"There are 5 apples. If you add 8 more apples, how many apples do you have?",Addition Error,13,19
+"There are 15 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.14285714285714,2.49661078681272
+"There are 1 apples. If you add 5 more apples, how many apples do you have?",Addition Error,6,16
+"John has 7 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,7,8
+"There are 3 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-3,-1
+"There are 6 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.857142857142857,1.3338815641759
+"There are 17 apples. If you add 1 more apples, how many apples do you have?",Addition Error,18,24
+"There are 10 apples. If you add 3 more apples, how many apples do you have?",Addition Error,13,15
+"There are 10 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.25,2.07850409605647
+"There are 1 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,-1,3
+"There are 1 apples. If you add 6 more apples, how many apples do you have?",Addition Error,7,14
+"John has 5 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,30,39
+"There are 18 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,13,14
+"John has 7 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,49,51
+"There are 20 apples. If you add 1 more apples, how many apples do you have?",Addition Error,21,23
+"There are 17 apples. If you add 2 more apples, how many apples do you have?",Addition Error,19,23
+"There are 17 apples. If you add 4 more apples, how many apples do you have?",Addition Error,21,23
+"There are 20 apples. If you add 10 more apples, how many apples do you have?",Addition Error,30,33
+"John has 12 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,72,79
+"There are 16 apples. If you add 1 more apples, how many apples do you have?",Addition Error,17,19
+"There are 19 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,2.11111111111111,2.22176559108241
+"There are 8 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,0,10
+"There are 8 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,2.66666666666667,3.19132494437616
+"There are 5 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-4,-3
+"There are 10 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,5,5.45802417091228
+"There are 11 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.57142857142857,1.85306726467093
+"There are 15 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,3,3.47424519745783
+"There are 5 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-2,2
+"There are 15 apples. If you add 10 more apples, how many apples do you have?",Addition Error,25,30
+"There are 19 apples. If you add 4 more apples, how many apples do you have?",Addition Error,23,29
+"John has 5 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,30,31
+"John has 7 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,63,68
+"There are 4 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,2,10
+"There are 15 apples. If you add 3 more apples, how many apples do you have?",Addition Error,18,25
+"There are 16 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,9,12
+"John has 17 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,85,87
+"There are 6 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.6,0.97718097134947
+"There are 4 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-2,2
+"John has 9 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,45,47
+"There are 6 apples. If you add 4 more apples, how many apples do you have?",Addition Error,10,17
+"There are 5 apples. If you add 8 more apples, how many apples do you have?",Addition Error,13,19
+"There are 8 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-2,2
+"There are 1 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-9,-4
+"There are 15 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,3.75,4.20453334323605
+"There are 16 apples. If you add 9 more apples, how many apples do you have?",Addition Error,25,31
+"John has 5 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,35,45
+"John has 1 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,6,7
+"John has 3 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,3,11
+"John has 19 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,57,59
+"There are 18 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6,6.44007306066636
+"John has 20 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,60,62
+"There are 4 apples. If you add 10 more apples, how many apples do you have?",Addition Error,14,19
+"There are 15 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.875,2.72311391316871
+"There are 15 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.875,2.14296278973121
+"There are 5 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,2.5,2.76178643058911
+"There are 7 apples. If you add 3 more apples, how many apples do you have?",Addition Error,10,13
+"There are 13 apples. If you add 6 more apples, how many apples do you have?",Addition Error,19,24
+"There are 7 apples. If you add 5 more apples, how many apples do you have?",Addition Error,12,20
+"There are 15 apples. If you add 4 more apples, how many apples do you have?",Addition Error,19,24
+"There are 6 apples. If you add 10 more apples, how many apples do you have?",Addition Error,16,26
+"There are 20 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,11,15
+"There are 4 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-3,2
+"There are 6 apples. If you add 8 more apples, how many apples do you have?",Addition Error,14,20
+"John has 11 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,66,76
+"There are 1 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.142857142857143,0.666378598692298
+"There are 11 apples. If you add 4 more apples, how many apples do you have?",Addition Error,15,18
+"There are 6 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,2,2.76329089412286
+"John has 16 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,128,133
+"There are 1 apples. If you add 7 more apples, how many apples do you have?",Addition Error,8,10
+"There are 8 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1.6,2.23960986082844
+"There are 15 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,7.5,7.7719724594183
+"John has 17 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,119,125
+"John has 2 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,16,19
+"John has 11 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,99,109
+"There are 3 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.428571428571429,0.936833414135387
+"John has 1 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,10,16
+"There are 4 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.444444444444444,0.575581165469152
+"There are 9 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,4,14
+"There are 7 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,1,4
+"There are 18 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,3.6,4.15430908476115
+"There are 7 apples. If you add 4 more apples, how many apples do you have?",Addition Error,11,18
+"There are 17 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.42857142857143,3.01859223392893
+"John has 7 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,63,71
+"There are 6 apples. If you add 7 more apples, how many apples do you have?",Addition Error,13,20
+"There are 8 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,6,13
+"There are 7 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,3.5,3.70980365434532
+"There are 1 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,0.25,1.1248900601781
+"There are 7 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-3,0
+"There are 4 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,0.5,0.726892191615691
+"There are 15 apples. If you add 4 more apples, how many apples do you have?",Addition Error,19,24
+"There are 7 apples. If you add 2 more apples, how many apples do you have?",Addition Error,9,10
+"There are 12 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,3,3.19442737086271
+"There are 14 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,4,10
+"There are 16 apples. If you add 1 more apples, how many apples do you have?",Addition Error,17,20
+"John has 6 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,42,52
+"There are 15 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.66666666666667,2.13175116372875
+"John has 18 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,90,95
+"There are 12 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.5,1.99541102829273
+"There are 15 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.5,2.37827241348425
+"There are 20 apples. If you add 2 more apples, how many apples do you have?",Addition Error,22,30
+"John has 10 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,60,65
+"John has 9 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,36,40
+"There are 17 apples. If you add 2 more apples, how many apples do you have?",Addition Error,19,20
+"There are 10 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,3,8
+"There are 8 apples. If you add 1 more apples, how many apples do you have?",Addition Error,9,13
+"There are 14 apples. If you add 2 more apples, how many apples do you have?",Addition Error,16,24
+"John has 13 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,117,125
+"There are 1 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,0.2,0.764550419243927
+"There are 5 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,2,3
+"There are 19 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.71428571428571,3.43303420314645
+"There are 13 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.44444444444444,2.19606230889588
+"There are 2 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-3,-2
+"There are 4 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.571428571428571,1.0019956083015
+"There are 9 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-1,7
+"John has 11 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,11,18
+"There are 17 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,8.5,8.70198294335349
+"There are 9 apples. If you add 7 more apples, how many apples do you have?",Addition Error,16,19
+"There are 17 apples. If you add 9 more apples, how many apples do you have?",Addition Error,26,36
+"John has 3 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,18,27
+"There are 14 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,11,16
+"There are 7 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.7,1.03678737965088
+"There are 2 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.285714285714286,0.988314778220136
+"There are 16 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,8,11
+"There are 20 apples. If you add 10 more apples, how many apples do you have?",Addition Error,30,40
+"John has 19 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,95,98
+"There are 7 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-1,6
+"There are 4 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,4,4.54791000590489
+"There are 13 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,2.6,2.90092045448205
+"John has 8 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,32,40
+"There are 6 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,1.5,2.07495281513354
+"John has 13 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,78,87
+"John has 17 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,119,122
+"There are 2 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.285714285714286,0.551826438091063
+"John has 1 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,4,13
+"There are 17 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.42857142857143,3.09512062847094
+"There are 16 apples. If you add 9 more apples, how many apples do you have?",Addition Error,25,32
+"There are 11 apples. If you add 3 more apples, how many apples do you have?",Addition Error,14,22
+"There are 1 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,0.2,0.407756332161968
+"John has 10 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,70,76
+"There are 2 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,0,10
+"There are 10 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,1.66666666666667,1.92506624621362
+"There are 13 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,11,18
+"There are 12 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,11,16
+"There are 3 apples. If you add 4 more apples, how many apples do you have?",Addition Error,7,10
+"There are 20 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,11,12
+"There are 19 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6.33333333333333,6.45011146761031
+"There are 2 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.222222222222222,0.411567287323875
+"There are 5 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,0,2
+"John has 16 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,128,134
+"John has 12 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,72,78
+"There are 12 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.33333333333333,1.49273399069922
+"There are 1 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,0.166666666666667,0.862030781172052
+"There are 9 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.28571428571429,2.07934600004685
+"John has 2 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,8,13
+"John has 13 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,13,15
+"John has 14 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,56,59
+"There are 7 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,2,10
+"There are 17 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,3.4,3.54564072615954
+"There are 4 apples. If you add 4 more apples, how many apples do you have?",Addition Error,8,12
+"John has 1 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,5,9
+"There are 2 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-3,0
+"There are 14 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.4,1.82538488854929
+"There are 1 apples. If you add 3 more apples, how many apples do you have?",Addition Error,4,12
+"There are 14 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.75,1.88743046154852
+"John has 11 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,99,103
+"There are 18 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,4.5,5.38251220927081
+"John has 3 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,9,10
+"There are 3 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,1,1.19170595454946
+"There are 8 apples. If you add 2 more apples, how many apples do you have?",Addition Error,10,13
+"John has 9 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,9,10
+"There are 12 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,6,6.82572367163281
+"John has 10 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,100,104
+"There are 2 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.285714285714286,1.09620676546088
+"There are 7 apples. If you add 7 more apples, how many apples do you have?",Addition Error,14,24
+"There are 8 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,1,3
+"There are 2 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,0.5,0.6615014417658
+"There are 14 apples. If you add 5 more apples, how many apples do you have?",Addition Error,19,20
+"John has 10 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,100,110
+"John has 20 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,80,89
+"John has 1 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,5,10
+"There are 6 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,3,5
+"There are 1 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.142857142857143,0.782807438847017
+"There are 19 apples. If you add 4 more apples, how many apples do you have?",Addition Error,23,26
+"There are 6 apples. If you add 4 more apples, how many apples do you have?",Addition Error,10,18
+"There are 20 apples. If you add 8 more apples, how many apples do you have?",Addition Error,28,36
+"There are 16 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,8,10
+"There are 9 apples. If you add 6 more apples, how many apples do you have?",Addition Error,15,21
+"There are 6 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,1,3
+"There are 8 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-2,4
+"There are 1 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-5,2
+"There are 5 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.5,0.789932265013558
+"There are 1 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,0.25,1.02581545159856
+"There are 18 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,2,2.21660372964071
+"There are 14 apples. If you add 3 more apples, how many apples do you have?",Addition Error,17,23
+"There are 9 apples. If you add 8 more apples, how many apples do you have?",Addition Error,17,25
+"There are 10 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,3,9
+"There are 6 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,0,8
+"There are 15 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,15,15.8600760999324
+"There are 10 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,1.66666666666667,2.44105650552688
+"There are 13 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,10,16
+"There are 4 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,4,4.36903191892472
+"There are 4 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-6,3
+"There are 8 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,5,7
+"There are 13 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,7,12
+"There are 16 apples. If you add 7 more apples, how many apples do you have?",Addition Error,23,25
+"John has 3 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,18,27
+"John has 7 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,35,42
+"There are 8 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1.6,1.72941923009874
+"There are 6 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,6,6.12164905668417
+"There are 9 apples. If you add 5 more apples, how many apples do you have?",Addition Error,14,21
+"There are 8 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,2,8
+"There are 13 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,8,14
+"There are 12 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,9,10
+"There are 9 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1.8,2.66364287024646
+"There are 14 apples. If you add 10 more apples, how many apples do you have?",Addition Error,24,26
+"There are 5 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-5,-3
+"John has 3 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,18,25
+"There are 18 apples. If you add 6 more apples, how many apples do you have?",Addition Error,24,25
+"There are 6 apples. If you add 9 more apples, how many apples do you have?",Addition Error,15,18
+"There are 9 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,3,3.26459156718191
+"There are 16 apples. If you add 9 more apples, how many apples do you have?",Addition Error,25,31
+"John has 1 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,9,17
+"There are 16 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,8,16
+"John has 10 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,20,29
+"There are 4 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,2,2.84386954541719
+"There are 15 apples. If you add 9 more apples, how many apples do you have?",Addition Error,24,30
+"There are 8 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2,2.72474130233259
+"There are 7 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,2.33333333333333,3.15130535193314
+"John has 13 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,13,18
+"There are 16 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,10,14
+"John has 14 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,70,74
+"There are 19 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,2.375,3.18030245764537
+"There are 4 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,4,4.63206218057356
+"John has 14 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,112,113
+"There are 19 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,17,26
+"There are 12 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,3,9
+"There are 9 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1,1.39532033886909
+"There are 17 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,15,21
+"There are 7 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.777777777777778,1.08742463431899
+"There are 4 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,0.8,1.32002567394356
+"There are 15 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.66666666666667,2.45676050207524
+"There are 11 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.57142857142857,1.80433325766515
+"John has 17 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,17,20
+"There are 20 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,19,29
+"There are 1 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-7,3
+"There are 4 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.444444444444444,0.872059187229257
+"There are 12 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.2,1.40796482154684
+"There are 15 apples. If you add 9 more apples, how many apples do you have?",Addition Error,24,31
+"There are 2 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.2,0.869031849598351
+"There are 14 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,8,15
+"There are 19 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,12,13
+"There are 15 apples. If you add 4 more apples, how many apples do you have?",Addition Error,19,21
+"There are 14 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,5,7
+"There are 1 apples. If you add 5 more apples, how many apples do you have?",Addition Error,6,16
+"There are 18 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6,6.80675203192852
+"There are 3 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,1,5
+"There are 4 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-4,-1
+"There are 14 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.4,2.15642105341702
+"John has 3 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,27,33
+"There are 8 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,0,2
+"There are 7 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,3,13
+"There are 16 apples. If you add 7 more apples, how many apples do you have?",Addition Error,23,33
+"John has 11 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,33,38
+"John has 1 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,3,9
+"There are 7 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.777777777777778,1.33881061675492
+"There are 14 apples. If you add 10 more apples, how many apples do you have?",Addition Error,24,30
+"John has 5 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,5,11
+"John has 6 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,42,43
+"John has 2 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,12,17
+"There are 7 apples. If you add 9 more apples, how many apples do you have?",Addition Error,16,20
+"There are 2 apples. If you add 4 more apples, how many apples do you have?",Addition Error,6,9
+"There are 13 apples. If you add 1 more apples, how many apples do you have?",Addition Error,14,24
+"There are 4 apples. If you add 2 more apples, how many apples do you have?",Addition Error,6,9
+"John has 17 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,153,154
+"John has 20 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,200,207
+"There are 19 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,9,14
+"John has 9 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,90,93
+"There are 19 apples. If you add 4 more apples, how many apples do you have?",Addition Error,23,32
+"There are 2 apples. If you add 6 more apples, how many apples do you have?",Addition Error,8,13
+"John has 3 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,3,10
+"There are 8 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,8,8.66650508690735
+"There are 5 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,0.833333333333333,1.37486744070963
+"There are 8 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.14285714285714,1.93064305364628
+"There are 1 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,1,1.69479361289529
+"There are 1 apples. If you add 9 more apples, how many apples do you have?",Addition Error,10,11
+"There are 13 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.44444444444444,1.93975540590233
+"John has 2 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,16,22
+"There are 6 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,0.75,1.10447572122303
+"There are 20 apples. If you add 6 more apples, how many apples do you have?",Addition Error,26,27
+"John has 18 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,36,45
+"John has 8 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,40,50
+"There are 16 apples. If you add 10 more apples, how many apples do you have?",Addition Error,26,32
+"There are 2 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,0.333333333333333,1.20581489648844
+"There are 15 apples. If you add 9 more apples, how many apples do you have?",Addition Error,24,33
+"John has 18 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,162,163
+"John has 8 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,32,35
+"There are 13 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,3,11
+"There are 13 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,12,16
+"There are 15 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.14285714285714,3.01431967237351
+"There are 13 apples. If you add 8 more apples, how many apples do you have?",Addition Error,21,29
+"There are 15 apples. If you add 3 more apples, how many apples do you have?",Addition Error,18,19
+"There are 10 apples. If you add 1 more apples, how many apples do you have?",Addition Error,11,17
+"There are 6 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,4,14
+"There are 12 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,10,16
+"John has 17 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,170,174
+"There are 16 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,8,8.25483917176445
+"John has 19 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,57,64
+"There are 8 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1,1.82983258546587
+"John has 8 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,56,58
+"There are 18 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,12,22
+"There are 3 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,3,3.33198521348503
+"There are 14 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,14,14.1162947621978
+"There are 6 apples. If you add 4 more apples, how many apples do you have?",Addition Error,10,12
+"There are 14 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,7,7.3693958639936
+"There are 10 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,0,8
+"There are 1 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.1,0.585391496970389
+"There are 7 apples. If you add 8 more apples, how many apples do you have?",Addition Error,15,21
+"John has 3 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,21,25
+"There are 11 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.57142857142857,1.97867651262755
+"There are 10 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,6,16
+"There are 20 apples. If you add 9 more apples, how many apples do you have?",Addition Error,29,34
+"There are 17 apples. If you add 7 more apples, how many apples do you have?",Addition Error,24,27
+"There are 20 apples. If you add 10 more apples, how many apples do you have?",Addition Error,30,37
+"There are 13 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,10,15
+"There are 8 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,2,9
+"John has 16 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,16,26
+"There are 17 apples. If you add 7 more apples, how many apples do you have?",Addition Error,24,31
+"There are 8 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,6,15
+"There are 14 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.75,2.06289294181621
+"John has 17 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,51,59
+"There are 17 apples. If you add 4 more apples, how many apples do you have?",Addition Error,21,23
+"There are 5 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,1.66666666666667,1.82978227304375
+"John has 9 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,27,29
+"John has 20 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,200,208
+"There are 17 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.88888888888889,2.4156690428078
+"There are 4 apples. If you add 7 more apples, how many apples do you have?",Addition Error,11,18
+"There are 3 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-5,-3
+"There are 20 apples. If you add 5 more apples, how many apples do you have?",Addition Error,25,30
+"There are 2 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.222222222222222,0.445840332591171
+"John has 14 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,56,61
+"There are 12 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,4,4.25562250672823
+"There are 18 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,9,9.60473614995158
+"There are 14 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,1.75,1.99315879406908
+"There are 15 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,3,3.69541647561244
+"John has 19 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,38,45
+"John has 17 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,119,122
+"There are 19 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,9,17
+"John has 11 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,88,98
+"There are 11 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,7,9
+"There are 12 apples. If you add 2 more apples, how many apples do you have?",Addition Error,14,22
+"John has 20 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,140,144
+"There are 3 apples. If you add 3 more apples, how many apples do you have?",Addition Error,6,12
+"There are 1 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,-2,7
+"There are 4 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-1,8
+"There are 5 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,2.5,3.18654930416512
+"There are 2 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,0.333333333333333,0.655031455030268
+"There are 9 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,4,8
+"There are 10 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,9,16
+"There are 10 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,0,10
+"John has 8 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,64,74
+"John has 1 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,3,10
+"There are 2 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,-2,4
+"John has 19 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,76,79
+"There are 3 apples. If you add 5 more apples, how many apples do you have?",Addition Error,8,18
+"John has 6 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,30,38
+"John has 6 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,24,29
+"John has 8 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,8,10
+"There are 19 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,11,18
+"There are 18 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,9,9.80057613600722
+"There are 17 apples. If you add 5 more apples, how many apples do you have?",Addition Error,22,29
+"John has 14 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,98,102
+"John has 13 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,91,94
+"There are 2 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,1,1.2659483688403
+"There are 3 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,0.75,1.6057531409474
+"There are 6 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.857142857142857,1.73860048825829
+"John has 10 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,80,85
+"There are 14 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,14,14.3575309325925
+"There are 6 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.666666666666667,1.30039366174742
+"John has 5 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,45,46
+"There are 14 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,12,13
+"There are 15 apples. If you add 4 more apples, how many apples do you have?",Addition Error,19,25
+"There are 12 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.71428571428571,2.16297451138229
+"There are 16 apples. If you add 7 more apples, how many apples do you have?",Addition Error,23,24
+"There are 17 apples. If you add 8 more apples, how many apples do you have?",Addition Error,25,27
+"There are 18 apples. If you add 5 more apples, how many apples do you have?",Addition Error,23,33
+"There are 14 apples. If you add 3 more apples, how many apples do you have?",Addition Error,17,26
+"There are 20 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6.66666666666667,6.93449142929019
+"There are 19 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,13,17
+"There are 3 apples. If you add 4 more apples, how many apples do you have?",Addition Error,7,17
+"There are 7 apples. If you add 6 more apples, how many apples do you have?",Addition Error,13,23
+"John has 14 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,42,48
+"There are 11 apples. If you add 9 more apples, how many apples do you have?",Addition Error,20,24
+"John has 5 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,20,23
+"There are 15 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,8,13
+"There are 20 apples. If you add 1 more apples, how many apples do you have?",Addition Error,21,22
+"There are 8 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.14285714285714,1.69264680432712
+"There are 18 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,12,17
+"There are 9 apples. If you add 9 more apples, how many apples do you have?",Addition Error,18,27
+"John has 1 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,6,15
+"There are 3 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-3,6
+"There are 14 apples. If you add 2 more apples, how many apples do you have?",Addition Error,16,20
+"There are 7 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.7,1.22745390929532
+"There are 20 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,10,15
+"There are 2 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.2,0.848300733731484
+"There are 3 apples. If you add 4 more apples, how many apples do you have?",Addition Error,7,15
+"There are 14 apples. If you add 1 more apples, how many apples do you have?",Addition Error,15,22
+"There are 13 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,10,14
+"John has 19 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,133,141
+"There are 6 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-4,-2
+"There are 17 apples. If you add 2 more apples, how many apples do you have?",Addition Error,19,20
+"There are 6 apples. If you add 1 more apples, how many apples do you have?",Addition Error,7,15
+"There are 2 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,-2,8
+"There are 10 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,10,10.58218784142
+"John has 17 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,170,173
+"There are 20 apples. If you add 5 more apples, how many apples do you have?",Addition Error,25,27
+"John has 6 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,48,56
+"There are 9 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,1.8,2.23131919794286
+"John has 8 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,40,44
+"There are 5 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,5,5.74656349079215
+"There are 1 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-5,4
+"There are 7 apples. If you add 6 more apples, how many apples do you have?",Addition Error,13,18
+"John has 2 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,10,16
+"There are 14 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,2.33333333333333,3.22530238616766
+"There are 5 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-1,4
+"There are 14 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,8,10
+"There are 16 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,13,19
+"There are 8 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,1.33333333333333,1.49305816734392
+"There are 19 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.9,2.18128681979932
+"There are 14 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,11,17
+"There are 2 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,1,10
+"There are 16 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,11,14
+"There are 15 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,3.75,3.92035171633571
+"John has 10 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,50,60
+"There are 12 apples. If you add 3 more apples, how many apples do you have?",Addition Error,15,25
+"There are 8 apples. If you add 2 more apples, how many apples do you have?",Addition Error,10,12
+"There are 5 apples. If you add 2 more apples, how many apples do you have?",Addition Error,7,10
+"John has 7 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,49,50
+"John has 9 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,27,36
+"There are 14 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,4,8
+"There are 13 apples. If you add 3 more apples, how many apples do you have?",Addition Error,16,22
+"There are 18 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,12,22
+"There are 4 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.444444444444444,0.675578457154884
+"There are 4 apples. If you add 3 more apples, how many apples do you have?",Addition Error,7,13
+"There are 5 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.555555555555556,0.669834357854665
+"John has 2 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,18,25
+"There are 13 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,8,18
+"There are 15 apples. If you add 3 more apples, how many apples do you have?",Addition Error,18,20
+"There are 17 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,5.66666666666667,5.82558500486196
+"There are 4 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.444444444444444,0.911317869578512
+"There are 10 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,3.33333333333333,3.71911136831741
+"There are 7 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.7,1.27387105646799
+"There are 11 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,9,15
+"There are 20 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,5,5.5893023894048
+"John has 8 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,48,53
+"There are 18 apples. If you add 3 more apples, how many apples do you have?",Addition Error,21,28
+"There are 15 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,3.75,4.21464545499708
+"John has 6 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,30,35
+"There are 7 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,6,12
+"There are 14 apples. If you add 8 more apples, how many apples do you have?",Addition Error,22,31
+"John has 3 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,30,32
+"There are 18 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,3,3.38540001676961
+"There are 5 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-5,5
+"John has 1 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,2,4
+"There are 3 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-2,4
+"There are 3 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,0.6,1.47596710465292
+"There are 5 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.5,0.818315229807113
+"John has 1 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,1,10
+"There are 18 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,6,6.2957382076019
+"John has 12 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,108,112
+"There are 11 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.22222222222222,1.3351710341034
+"There are 14 apples. If you add 4 more apples, how many apples do you have?",Addition Error,18,28
+"John has 16 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,96,102
+"There are 5 apples. If you add 3 more apples, how many apples do you have?",Addition Error,8,10
+"John has 19 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,133,142
+"There are 1 apples. If you add 1 more apples, how many apples do you have?",Addition Error,2,11
+"There are 4 apples. If you add 1 more apples, how many apples do you have?",Addition Error,5,6
+"There are 19 apples. If you add 1 more apples, how many apples do you have?",Addition Error,20,29
+"There are 17 apples. If you add 7 more apples, how many apples do you have?",Addition Error,24,34
+"There are 6 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.666666666666667,1.13611771530867
+"There are 17 apples. If you add 8 more apples, how many apples do you have?",Addition Error,25,27
+"There are 9 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2.25,2.84774656444979
+"John has 4 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,24,30
+"There are 1 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,1,1.63287852961472
+"There are 15 apples. If you add 5 more apples, how many apples do you have?",Addition Error,20,24
+"There are 3 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-4,3
+"There are 13 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,4,12
+"There are 6 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,0.857142857142857,1.53168317242706
+"There are 2 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-4,3
+"There are 17 apples. If you add 2 more apples, how many apples do you have?",Addition Error,19,29
+"There are 10 apples. If you add 9 more apples, how many apples do you have?",Addition Error,19,20
+"There are 11 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,7,17
+"There are 2 apples. If you add 8 more apples, how many apples do you have?",Addition Error,10,13
+"There are 13 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,11,16
+"There are 2 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-3,0
+"There are 1 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,-2,0
+"There are 14 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,6,9
+"There are 1 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,0.5,1.12829341893
+"There are 8 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-1,5
+"There are 1 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,0.333333333333333,0.498055823297786
+"There are 9 apples. If you add 3 more apples, how many apples do you have?",Addition Error,12,14
+"There are 14 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,9,12
+"There are 10 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.11111111111111,1.34259660290073
+"There are 8 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2,2.87173037515763
+"John has 1 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,9,12
+"There are 6 apples. If you add 4 more apples, how many apples do you have?",Addition Error,10,14
+"There are 8 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.14285714285714,1.80955769181834
+"There are 3 apples. If you add 6 more apples, how many apples do you have?",Addition Error,9,10
+"There are 12 apples. If you add 9 more apples, how many apples do you have?",Addition Error,21,24
+"There are 19 apples. If you add 5 more apples, how many apples do you have?",Addition Error,24,27
+"There are 20 apples. If you add 1 more apples, how many apples do you have?",Addition Error,21,27
+"There are 6 apples. If you add 3 more apples, how many apples do you have?",Addition Error,9,12
+"John has 9 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,45,50
+"There are 16 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,15,16
+"There are 2 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,0.2,0.492298257075826
+"There are 17 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,14,15
+"There are 20 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,10,18
+"John has 14 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,140,143
+"John has 8 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,48,55
+"There are 20 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,11,16
+"There are 9 apples. If you add 10 more apples, how many apples do you have?",Addition Error,19,24
+"John has 18 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,36,42
+"John has 18 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,108,113
+"There are 12 apples. If you add 5 more apples, how many apples do you have?",Addition Error,17,24
+"There are 9 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,5,10
+"John has 8 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,56,66
+"There are 17 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,14,18
+"John has 8 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,80,88
+"There are 3 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,0.75,0.946305792562013
+"There are 12 apples. If you add 4 more apples, how many apples do you have?",Addition Error,16,18
+"John has 20 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,120,124
+"There are 19 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,2.11111111111111,2.84179729445041
+"There are 1 apples. If you add 4 more apples, how many apples do you have?",Addition Error,5,11
+"There are 2 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-3,3
+"There are 8 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-2,1
+"There are 13 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,7,15
+"John has 5 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,30,39
+"John has 2 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,14,22
+"There are 6 apples. If you add 5 more apples, how many apples do you have?",Addition Error,11,20
+"John has 5 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,50,51
+"There are 16 apples. If you add 3 more apples, how many apples do you have?",Addition Error,19,27
+"There are 12 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,12,12.7293885721348
+"There are 5 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-5,5
+"There are 17 apples. If you add 9 more apples, how many apples do you have?",Addition Error,26,33
+"There are 16 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,16,16.456126749394
+"There are 19 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,12,17
+"John has 1 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,10,15
+"There are 11 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2.75,2.90583894045025
+"There are 11 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,6,8
+"John has 2 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,6,16
+"There are 6 apples. If you add 5 more apples, how many apples do you have?",Addition Error,11,15
+"John has 4 boxes, and each box contains 9 chocolates. How many chocolates does he have in total?",Multiplication Error,36,41
+"John has 2 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,2,11
+"There are 19 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,16,17
+"There are 20 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,2.85714285714286,3.52086741489033
+"There are 2 apples. If you add 5 more apples, how many apples do you have?",Addition Error,7,16
+"There are 7 balloons. If 1 balloons pop, how many balloons are left?",Subtraction Error,6,15
+"There are 14 apples. If you add 8 more apples, how many apples do you have?",Addition Error,22,23
+"There are 12 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,5,13
+"There are 1 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-6,4
+"There are 4 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,-6,-3
+"There are 2 cookies, and they need to be divided equally among 5 friends. How many cookies does each friend get?",Division Error,0.4,0.896910000009322
+"There are 20 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,13,16
+"There are 19 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,19,19.8199554672424
+"There are 18 apples. If you add 2 more apples, how many apples do you have?",Addition Error,20,30
+"There are 3 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,-2,0
+"There are 7 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,3.5,3.97505685484968
+"There are 6 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,1,7
+"There are 15 balloons. If 3 balloons pop, how many balloons are left?",Subtraction Error,12,16
+"There are 5 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-3,1
+"There are 12 balloons. If 10 balloons pop, how many balloons are left?",Subtraction Error,2,11
+"John has 3 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,9,14
+"There are 12 apples. If you add 4 more apples, how many apples do you have?",Addition Error,16,18
+"There are 20 apples. If you add 5 more apples, how many apples do you have?",Addition Error,25,31
+"John has 16 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,48,52
+"There are 9 apples. If you add 2 more apples, how many apples do you have?",Addition Error,11,18
+"John has 7 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,42,48
+"There are 5 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-4,1
+"John has 16 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,64,69
+"John has 19 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,95,100
+"John has 11 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,44,46
+"There are 1 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,-5,-2
+"There are 19 apples. If you add 6 more apples, how many apples do you have?",Addition Error,25,34
+"There are 13 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.85714285714286,2.75424847495006
+"There are 1 apples. If you add 3 more apples, how many apples do you have?",Addition Error,4,10
+"There are 4 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,2,2.51467735380308
+"John has 5 boxes, and each box contains 10 chocolates. How many chocolates does he have in total?",Multiplication Error,50,54
+"There are 15 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,13,22
+"There are 2 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,2,2.1616815006512
+"There are 11 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,2,12
+"There are 1 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-7,-3
+"John has 4 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,28,38
+"John has 9 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,45,55
+"There are 8 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,2,2.8292890120548
+"There are 6 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,4,7
+"There are 19 apples. If you add 7 more apples, how many apples do you have?",Addition Error,26,31
+"John has 13 boxes, and each box contains 7 chocolates. How many chocolates does he have in total?",Multiplication Error,91,93
+"John has 14 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,42,52
+"There are 4 apples. If you add 6 more apples, how many apples do you have?",Addition Error,10,19
+"There are 14 apples. If you add 9 more apples, how many apples do you have?",Addition Error,23,25
+"There are 4 balloons. If 7 balloons pop, how many balloons are left?",Subtraction Error,-3,7
+"There are 12 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.2,1.35148501376281
+"There are 10 balloons. If 6 balloons pop, how many balloons are left?",Subtraction Error,4,12
+"There are 19 apples. If you add 9 more apples, how many apples do you have?",Addition Error,28,34
+"There are 20 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,5,5.14079439869592
+"John has 15 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,30,33
+"There are 19 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,2.375,2.71401921195182
+"There are 4 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,0.666666666666667,1.45013740264336
+"John has 7 boxes, and each box contains 5 chocolates. How many chocolates does he have in total?",Multiplication Error,35,38
+"There are 11 apples. If you add 2 more apples, how many apples do you have?",Addition Error,13,16
+"There are 15 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,15,15.2095218306446
+"There are 3 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,1,1.67110613794471
+"John has 2 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,6,9
+"John has 20 boxes, and each box contains 1 chocolates. How many chocolates does he have in total?",Multiplication Error,20,30
+"There are 13 apples. If you add 3 more apples, how many apples do you have?",Addition Error,16,25
+"John has 10 boxes, and each box contains 3 chocolates. How many chocolates does he have in total?",Multiplication Error,30,36
+"There are 11 balloons. If 5 balloons pop, how many balloons are left?",Subtraction Error,6,13
+"There are 18 cookies, and they need to be divided equally among 10 friends. How many cookies does each friend get?",Division Error,1.8,1.90915554894264
+"There are 8 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,-1,5
+"There are 10 cookies, and they need to be divided equally among 7 friends. How many cookies does each friend get?",Division Error,1.42857142857143,1.95302982567202
+"There are 10 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,5,5.61517926993081
+"John has 8 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,48,52
+"There are 15 apples. If you add 5 more apples, how many apples do you have?",Addition Error,20,25
+"There are 13 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,2.16666666666667,2.88756723482462
+"There are 10 cookies, and they need to be divided equally among 6 friends. How many cookies does each friend get?",Division Error,1.66666666666667,1.87856751209758
+"There are 6 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,0.666666666666667,0.796574785861073
+"There are 10 apples. If you add 6 more apples, how many apples do you have?",Addition Error,16,22
+"John has 10 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,60,65
+"There are 18 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,2,2.29359093035659
+"There are 5 apples. If you add 2 more apples, how many apples do you have?",Addition Error,7,11
+"John has 7 boxes, and each box contains 6 chocolates. How many chocolates does he have in total?",Multiplication Error,42,51
+"There are 13 cookies, and they need to be divided equally among 3 friends. How many cookies does each friend get?",Division Error,4.33333333333333,5.00870928939601
+"There are 3 cookies, and they need to be divided equally among 4 friends. How many cookies does each friend get?",Division Error,0.75,0.985134832844913
+"There are 12 cookies, and they need to be divided equally among 2 friends. How many cookies does each friend get?",Division Error,6,6.35647340384048
+"There are 2 apples. If you add 4 more apples, how many apples do you have?",Addition Error,6,15
+"There are 9 balloons. If 4 balloons pop, how many balloons are left?",Subtraction Error,5,8
+"There are 3 apples. If you add 3 more apples, how many apples do you have?",Addition Error,6,13
+"There are 18 cookies, and they need to be divided equally among 1 friends. How many cookies does each friend get?",Division Error,18,18.3666359753416
+"There are 11 balloons. If 9 balloons pop, how many balloons are left?",Subtraction Error,2,12
+"There are 11 apples. If you add 7 more apples, how many apples do you have?",Addition Error,18,25
+"John has 10 boxes, and each box contains 8 chocolates. How many chocolates does he have in total?",Multiplication Error,80,82
+"John has 19 boxes, and each box contains 4 chocolates. How many chocolates does he have in total?",Multiplication Error,76,86
+"John has 18 boxes, and each box contains 2 chocolates. How many chocolates does he have in total?",Multiplication Error,36,37
+"There are 12 cookies, and they need to be divided equally among 9 friends. How many cookies does each friend get?",Division Error,1.33333333333333,1.69492245952734
+"There are 18 apples. If you add 10 more apples, how many apples do you have?",Addition Error,28,35
+"There are 6 balloons. If 8 balloons pop, how many balloons are left?",Subtraction Error,-2,5
+"There are 19 cookies, and they need to be divided equally among 8 friends. How many cookies does each friend get?",Division Error,2.375,3.13581285192684
+"There are 4 balloons. If 2 balloons pop, how many balloons are left?",Subtraction Error,2,9
